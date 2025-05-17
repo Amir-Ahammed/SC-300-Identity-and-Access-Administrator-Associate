@@ -7,5 +7,8 @@ Demonstrate the features of Microsoft Entra ID to modernize identity solutions, 
 * Plan and implement workload identities
 * Plan and implement identity governance
 
+# Skills
+* Implement identity and access management (IAM) in Microsoft Entra ID
+* Implement an identity governance strategy with Microsoft Entra ID
 
 
